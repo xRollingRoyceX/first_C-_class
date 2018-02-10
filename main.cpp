@@ -1,5 +1,5 @@
 
-#include "data_class"
+#include "data_class.h"
 //..
 void print_results()
 {
