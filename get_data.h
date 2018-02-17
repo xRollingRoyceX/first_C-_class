@@ -1,9 +1,7 @@
 
 #include <std_lib_facilities.h>
-
 //omit file_name<<.>h> of this file if using not using raspberry PI or using nano
 //(omitting .h in nano makes things harder to read)
-#include <std_lib_facilities.h>
 class get_area
 {
 public:
